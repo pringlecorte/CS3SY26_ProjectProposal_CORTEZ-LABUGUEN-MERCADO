@@ -17,5 +17,6 @@
 - The story is about two childhood friends, a celebrity and a programmer. They are both in a coma or a state of “reverie”.
 - In this game, you have to play as one of the childhood friends and try to get three “memories” to get out of their coma.
 - Each character has their own powers that they can use to help gain memories.
+- To read more, click [here]([url](https://docs.google.com/document/d/1NYE7qHSMamlV-Utr1F5OdrEPMr8Dcmn8EP6SwybAcIE/edit?usp=sharing))
 
 <img width="472" height="543" alt="image" src="https://github.com/user-attachments/assets/90d9aa04-fa98-4825-8964-8df5973cd425" />
