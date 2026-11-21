@@ -18,3 +18,4 @@
 - In this game, you have to play as one of the childhood friends and try to get three “memories” to get out of their coma.
 - Each character has their own powers that they can use to help gain memories.
 
+<img width="472" height="543" alt="image" src="https://github.com/user-attachments/assets/90d9aa04-fa98-4825-8964-8df5973cd425" />
